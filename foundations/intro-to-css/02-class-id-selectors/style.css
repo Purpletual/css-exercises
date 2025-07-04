@@ -1,0 +1,20 @@
+.odd {
+    background-color: rgb(228, 93, 115);
+    font-family: Verdana, sans-serif;
+}
+
+.cooler{
+    font-size: 24px;
+}
+
+#blue {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+/*comments in html look like this*/
+#green{
+    background-color: rgb(143, 235, 143);
+    font-weight: 900;
+}
+
